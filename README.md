@@ -11,7 +11,7 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into customers of a company who have churned in last month.By analyzing various aspects of
+This data analysis project aims to provide insights into customers of a telecom company who have churned in last month.By analyzing various aspects of
 the data. We seek to identify trends and reasons behind customer churn.   
 
 ### Data Source
